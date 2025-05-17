@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+.DS_Store
+
 # User-specific files
 *.rsuser
 *.suo
@@ -31,6 +33,9 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+#rider
+.ider/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
